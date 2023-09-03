@@ -1,4 +1,4 @@
-# roskilde-spa-vue
+# Festival Website Front-End (Vue 3 SPA)
 
 ### IMPORTANT:
 
